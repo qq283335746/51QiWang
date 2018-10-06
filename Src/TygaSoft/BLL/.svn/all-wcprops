@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/BLL
+END
+Order.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/BLL/Order.cs
+END
+ContentType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/BLL/ContentType.cs
+END
+Category.cs
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/BLL/Category.cs
+END
+LotteryItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/BLL/LotteryItem.cs
+END
+BLL.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/BLL/BLL.csproj.user
+END
+UserTicket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/BLL/UserTicket.cs
+END
+OrderSynchronous.cs
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/BLL/OrderSynchronous.cs
+END
+RunLottery.cs
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/BLL/RunLottery.cs
+END
+OrderAsynchronous.cs
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/BLL/OrderAsynchronous.cs
+END
+UserPoint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/BLL/UserPoint.cs
+END
+UserBetLottery.cs
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/BLL/UserBetLottery.cs
+END
+PrizeTicket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/BLL/PrizeTicket.cs
+END
+HandlerUserProfile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/BLL/HandlerUserProfile.cs
+END
+ContentDetail.cs
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/BLL/ContentDetail.cs
+END
+WebSitemap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/BLL/WebSitemap.cs
+END
+BLL.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/BLL/BLL.csproj
+END
+MenuNav.cs
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/BLL/MenuNav.cs
+END

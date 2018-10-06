@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<rewriteRules>
+  <if url="^(.*)/(\?.+)?$">
+    <rewrite exists="$1/Default.aspx" to="$1/Default.aspx$2" />
+  </if>
+  <rewrite url="^/$" to="~/Default.aspx" processing="stop" />
+  <rewrite url="^/t\.html$" to="~/Login.aspx" processing="stop" />
+  <rewrite url="^/t\.html\?(.*)" to="~/Login.aspx?$1" processing="stop" />
+  <rewrite url="^/y\.html$" to="~/Register.aspx" processing="stop" />
+  <if url="^/s">
+    <rewrite url="^/s/t\.html$" to="~/Shares/AboutSite/Default.aspx" processing="stop" />
+    <rewrite url="^/s/t\.html\?(.*)" to="~/Shares/AboutSite/Default.aspx?$1" processing="stop" />
+  </if>
+  <if url="^/u">
+    <rewrite url="^/u(/?)$" to="~/Users/Default.aspx" processing="stop" />
+    <rewrite url="^/u/t\.html$" to="~/Users/ListPrizeTicket.aspx" processing="stop" />
+    <rewrite url="^/u/y\.html\?(.*)" to="~/Users/TicketDetail.aspx?$1" processing="stop" />
+    <rewrite url="^/u/g\.html\?(.*)" to="~/Users/AddLorrery.aspx?$1" processing="stop" />
+    <rewrite url="^/u/a\.html\?(.*)" to="~/Users/ListLottery.aspx?$1" processing="stop" />
+    <rewrite url="^/u/ta\.html$" to="~/Users/TicketSuccess.aspx" processing="stop" />
+    <rewrite url="^/u/ta\.html\?(.*)" to="~/Users/TicketSuccess.aspx?$1" processing="stop" />
+  </if>
+
+</rewriteRules>

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/Model
+END
+ContentType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/Model/ContentType.cs
+END
+Category.cs
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/Model/Category.cs
+END
+LotteryItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/Model/LotteryItem.cs
+END
+UserTicket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/Model/UserTicket.cs
+END
+MenuItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/Model/MenuItem.cs
+END
+RunLottery.cs
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/Model/RunLottery.cs
+END
+UserPoint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/Model/UserPoint.cs
+END
+Model.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/Model/Model.csproj
+END
+UserBetLottery.cs
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/Model/UserBetLottery.cs
+END
+PrizeTicket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/Model/PrizeTicket.cs
+END
+HandlerUserProfile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/Model/HandlerUserProfile.cs
+END
+ContentDetail.cs
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/Model/ContentDetail.cs
+END
+WebSitemap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/Model/WebSitemap.cs
+END
+Model.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/Model/Model.csproj.user
+END
+MenuNav.cs
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/Model/MenuNav.cs
+END

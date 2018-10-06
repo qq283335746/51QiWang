@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/Web/Handlers
+END
+ProvinceCity.ashx
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/Web/Handlers/ProvinceCity.ashx
+END
+HandlerUsers.ashx
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/Web/Handlers/HandlerUsers.ashx
+END
+KindeditorFiles.ashx
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/Web/Handlers/KindeditorFiles.ashx
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/Web/Handlers/Web.config
+END
+ProvinceCity.ashx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/Web/Handlers/ProvinceCity.ashx.cs
+END
+HandlerUsers.ashx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/Web/Handlers/HandlerUsers.ashx.cs
+END
+KindeditorFiles.ashx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/Web/Handlers/KindeditorFiles.ashx.cs
+END
+KindeditorFilesUpload.ashx
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/Web/Handlers/KindeditorFilesUpload.ashx
+END
+ValidateCode.ashx
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/Web/Handlers/ValidateCode.ashx
+END
+HandlerArea.ashx
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/Web/Handlers/HandlerArea.ashx
+END
+KindeditorFilesUpload.ashx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/Web/Handlers/KindeditorFilesUpload.ashx.cs
+END
+ValidateCode.ashx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/Web/Handlers/ValidateCode.ashx.cs
+END
+HandlerArea.ashx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/926/51%E6%A3%8B%E7%8E%8B/trunk/%E6%BA%90%E7%A0%81/LotterySln/Web/Handlers/HandlerArea.ashx.cs
+END
