@@ -1,0 +1,157 @@
+﻿body{
+  color: #404040;font-size: 12px;font-style: normal;font-variant: normal;line-height: 150%;
+}
+a {
+  text-decoration: none; color:#008080;
+}
+a:hover {
+ color: #FF0000;
+}
+
+#mqBox {
+ overflow: hidden;white-space: nowrap;width: 460px;
+}
+
+#mqA,#mqB {
+ float: left;
+}
+#mqIn {
+ float: left;width: 800%;
+}
+
+/*Public begin*/
+.w {
+ width: 1000px;margin: 0 auto;
+}
+
+.sl {
+  float: left;_display: inline;width: 250px; overflow:hidden; margin-right:10px;
+}
+.sr {
+  float: left;overflow:hidden; width:740px;
+}
+
+.horizontal li {
+ float:left; margin-left:10px; height:25px; line-height:25px;
+}
+.v_ul li {
+  height:27px; line-height:27px; overflow:hidden;
+}
+
+/*header*/
+.vt {
+    height:30px; line-height:30px; background-color:#000; border-bottom:1px solid #B40404; color:#fff;
+}
+.vt .w{
+ width:98%;
+}
+.vt a{
+  color:#fff;
+}
+.nav{
+    background: url("Images/2014A.png") repeat-x scroll 0 -315px transparent;height:37px; line-height:37px; padding:0 10px 0 10px;
+}
+.nav a{
+    height:37px; line-height:37px; width:100px; display:block;text-align:center; font-size:14px; float:left; color:#FAECC4;
+}
+.nav .curr{
+    background:#EC0707;height:37px; width:100px; display:block; color:#FAECC4; text-align:center;
+}
+.nav .hover{
+    background:#EC0707;height:37px; width:100px; display:block; color:#FAECC4; text-align:center;
+}
+
+#logoBox{
+    height:70px; line-height:70px; font-size:48px; text-align:center;
+}
+
+/*Shares.Master*/
+#runBox{
+    width:600px; margin:0 auto;
+}
+#buyItems .buyItem{
+    background-color:#000; color:#FF0000;
+}
+
+/*Users/Default.aspx*/
+.multiple{
+ display:block; border:1px solid #95B8E7; width:15px; height:15px; float:left; margin:2px 0 2px 5px; text-align:center; color:#404040;
+}
+.txtBet{ 
+ width:90%;
+}
+.totalRow {
+ height:33px; line-height:33px; overflow:hidden;
+}
+#totalBox{
+ border:1px solid #ffb91f; width:300px; height:27px; line-height:27px; padding-left:15px;
+}
+#totalBetNum {
+ color:#FF0000; font-size:14px; font-weight:bold;
+}
+.conform_btn {
+  display:block; background-image: url("Images/bg_h.gif");background-repeat: repeat-x; width: 80px;height: 27px;color: #FFFFFF;
+  font-size: 14px; font-weight: bold;line-height: 25px;text-align: center;cursor: pointer;
+}
+#abtnConformNext a{
+ display:block; height:18px; line-height:18px; float:left; margin-left:10px; border:1px solid #C0C0C0; color:#8d5000; background:#FFEEC2; padding:5px;
+}
+
+.ci{
+ background-image: url("Images/ci.png"); width:59px; height:60px; line-height:60px; color:#fff; font-size:14px; font-weight:bold; display:block; text-align:center; margin:0 auto;
+}
+
+/*Users/ListPrizeTicket.aspx*/
+.a{
+ display:block; float:left; height:27px; line-height:27px; width:100%;
+}
+.ticket{
+ width:172px; height:180px; overflow:hidden; float:left;
+}
+.ticket .img{
+ border:1px solid #E0ECFF; width:164px; height:131px; overflow:hidden;
+}
+/*Users/TicketDetail.aspx*/
+.v_p_img{
+ border:1px solid #E0ECFF; width:250px; height:200px; line-height:200px; overflow:hidden; float:left; margin-right:15px;
+}
+#v_p_descr li{
+ border-bottom:1px dotted #C0C0C0; height:30px; line-height:30px; overflow:hidden; width:473px;
+}
+#v_p_descr .title{
+ font-weight:bold; font-size:14px;
+}
+#v_p_descr .end{
+ height:40px; line-height:40px; overflow:hidden;border-bottom:none; margin-top:20px;
+}
+.abtnDh{ 
+ background:url("Images/jpdh_an.gif") no-repeat; width:157px; height:40px; display:block;
+}
+
+/*bindT*/
+#bindT{ width:100%;border-bottom: none;background-color: #F2F8FB;empty-cells: show;border-collapse: collapse;}
+#bindT th{background: #CAE8EA url('Images/bg_header.jpg') no-repeat; border:solid 1px #226C8A; padding: 6px;}
+#bindT td{ text-align:center; border:solid 1px #226C8A; border-top-style:none; padding:2px; overflow:hidden;}
+#bindT td a{ color:#226C8A;}
+#bindT td a.colorNone{ color:#404040;}
+#bindT .ui-resizable-e{ cursor:e-resize; }
+
+.bindT{ width:100%;border-bottom: none;background-color: #F2F8FB;empty-cells: show;border-collapse: collapse;}
+.bindT th{background: #CAE8EA url('Images/bg_header.jpg') no-repeat; border:solid 1px #226C8A; padding: 6px;}
+.bindT td{ text-align:center; border:solid 1px #226C8A; border-top-style:none; padding:2px;}
+
+.clickStyle{ background-color:#C9E7E9;}
+
+/*footer*/
+.footer {
+   margin-top:50px; border-top:8px solid #000;
+}
+.footer .a {
+   height:30px; padding:5px; text-align:center; line-height:30px;
+}
+.footer .b {
+   height:30px; padding:5px; text-align:center; line-height:30px;
+}
+.footer .aa {
+  color:#880000;
+}
